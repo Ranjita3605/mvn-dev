@@ -76,7 +76,7 @@
             <archive>
               <manifest>
                 <addClasspath>true</addClasspath>
-                <mainClass>com.mvit.flipkart-app.App</mainClass>
+                <mainClass>com.mvit.flipkartapp.App</mainClass>
               </manifest>
             </archive>
           </configuration>
